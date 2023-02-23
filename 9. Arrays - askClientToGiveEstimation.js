@@ -15,6 +15,4 @@ for (let i = 0; i < 5; i += 1) {
 const goodEstimations = clientsEstimations.filter((estimation) => estimation > 5);
 const notGoodEstimations = clientsEstimations.filter((estimation) => estimation <= 5);
 
-console.log(goodEstimations, notGoodEstimations);
-
 alert(`Positive feedback: ${goodEstimations.length}; Negative feedback: ${notGoodEstimations.length}`);
