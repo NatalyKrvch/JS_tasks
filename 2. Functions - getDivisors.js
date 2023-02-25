@@ -1,4 +1,5 @@
-// Task:
+// Task description:
+
 // You need to create a getDivisorsCount function that will calculate the number of divisors for the passed number. It takes the only number parameter.
 // By default it should be 1.
 // If the number is less than zero or is not an integer (you can check it with Number.isInteger(number)), 
