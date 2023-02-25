@@ -1,8 +1,8 @@
-Let's create two functions. They will be our future callbacks:
-1. showSuccessMessage - accepts the message parameter and displays it to the console via console.log
-2. showErrorMessage - accepts the message parameter and prints it to the console via console.error
-
 // Task description:
+
+// Let's create two functions. They will be our future callbacks:
+// 1. showSuccessMessage - accepts the message parameter and displays it to the console via console.log
+// 2. showErrorMessage - accepts the message parameter and prints it to the console via console.error
 
 // Then you need to create another function called checkTextOnErrorSymbol. 
 // With it, we will search the text for the forbidden symbol and display an error in the console if such a symbol was found.
