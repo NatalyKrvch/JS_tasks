@@ -1,4 +1,5 @@
-// Task:
+// Task description:
+
 // You must create getSumOfNumbers function. It will calculate the sum from 0 to the passed number. 
 // getSumOfNumbers takes 2 parameters: number and type.
 // The number parameter is the number to which the sum is calculated. 
