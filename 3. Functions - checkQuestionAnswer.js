@@ -1,4 +1,5 @@
-// Task:
+// Task description:
+
 // Your task is to create checkQuestionAnswer function, which will ask the user a question and automatically check the response.
 // It accepts two parameters: question and correctAnswer.
 // The question parameter is a question that will be given to the user and passed as a parameter to the prompt function.
