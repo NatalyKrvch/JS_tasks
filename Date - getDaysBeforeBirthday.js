@@ -1,4 +1,4 @@
-// Task description:
+// Task description: 
 
 // Your task now is to create a function that will return the number of days until the next birthday. 
 // This function should accept 1 parameter, which is a date object and indicates the date of your nearest birthday. 
