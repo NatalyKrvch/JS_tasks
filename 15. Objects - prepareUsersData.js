@@ -1,3 +1,8 @@
+// Task description:
+
+// There is an array of data about each client of the bank. 
+// It is necessary to create a function that will display an array of users older than 18 and separately about those who have a credit card debt
+
 const userList = [{
     firstName: 'Bob',
     lastName: 'Marley',

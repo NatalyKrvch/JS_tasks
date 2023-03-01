@@ -1,3 +1,16 @@
+// Task description:
+
+// The array of numbers is given.
+// numbers = [10, 4, 100, -5, 54, 2];
+// It is necessary to calculate the sum of cubes of all numbers in the array. For example, the array [1, 5, 9] must have the following result:
+// 1 3 + 5 3 + 9 3 = 1 + 125 + 729 = 855
+
+// Solve this task in 4 ways:
+// 1. Use for
+// 2. Use for of
+// 3. Use forEach method
+// 4. Use reduce method
+
 const numbers = [10, 4, 100, -5, 54, 2];
 
 // 1. for
